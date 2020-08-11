@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bip38BruteForcer", "Bip38BruteForcer\Bip38BruteForcer.csproj", "{E24B9998-D924-4D08-A1EE-4AD8C99FB835}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E24B9998-D924-4D08-A1EE-4AD8C99FB835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E24B9998-D924-4D08-A1EE-4AD8C99FB835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E24B9998-D924-4D08-A1EE-4AD8C99FB835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E24B9998-D924-4D08-A1EE-4AD8C99FB835}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {016C1E0E-94D5-4474-8816-B6B5BA8B053C}
+	EndGlobalSection
+EndGlobal
