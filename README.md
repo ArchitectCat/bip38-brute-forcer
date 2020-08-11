@@ -1,6 +1,9 @@
 # bip38-brute-forcer
 A simple brute force tool to decode BIP38 encoded private keys via word dictionaries.
-It uses Bitcoin model binding from awesome **casascius** project [PaperTool](https://github.com/casascius/PaperTool) and also very efficent SCrypt binding from **replicon** [Replicon.Cryptography.SCrypt](https://github.com/replicon/Replicon.Cryptography.SCrypt).
+It uses Bitcoin model binding from awesome **casascius** project [PaperTool](https://github.com/casascius/PaperTool) and also very efficent SCrypt binding from **replicon** [Replicon.Cryptography.SCrypt](https://github.com/replicon/Replicon.Cryptography.SCrypt). 
+
+# Note
+This tool is resumable, each time it stopped, the last processed entry id is saved into **brute_history.log** file. That value is related to the word dictionary file. Everytime you change the target address/encryption key or list of word dictionary files, consider either setting the value in that file to zero or just remove the file before running the app.   
 
 # Configuration
 Edit the application settings in *App.config* file, save the file and run the program.
