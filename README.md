@@ -35,4 +35,4 @@ If this project helped you, consider buying me a cup of coffee :)
 
 https://ko-fi.com/ArchitectCat
 
-Bitcoin Address: 1wuNBchDeXbKBS4zf3XLbnD2unm89BVgg
+BTC Address: 1wuNBchDeXbKBS4zf3XLbnD2unm89BVgg
