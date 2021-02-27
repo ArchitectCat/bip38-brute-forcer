@@ -29,3 +29,10 @@ Example configuration:
   *ReportInterval* - Progress reporting interval in minutes, default is "1".
   
   Running this example configuration should return **testpassword** as a found passphrase. 
+
+# Donation
+If this project helped you, consider buying me a cup of coffee :)
+
+https://ko-fi.com/ArchitectCat
+
+Bitcoin Address: 1wuNBchDeXbKBS4zf3XLbnD2unm89BVgg
